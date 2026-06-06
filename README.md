@@ -104,6 +104,7 @@ See [Contributing](#contributing).
   - [Task Management & To-do Lists](#task-management--to-do-lists)
   - [Ticketing](#ticketing)
   - [Time Tracking](#time-tracking)
+  - [Travel Organizers](#travel-organizers)
   - [URL Shorteners](#url-shorteners)
   - [Video Surveillance](#video-surveillance)
   - [VPN](#vpn)
@@ -2106,6 +2107,19 @@ _Related: [Task Management & To-do Lists](#task-management--to-do-lists), [Softw
 - [Request Tracker](https://www.bestpractical.com/rt/) - Enterprise-grade issue tracking system. ([Source Code](https://github.com/bestpractical/rt)) `GPL-2.0` `Perl`
 - [Roundup Issue Tracker](https://www.roundup-tracker.org/) - Simple-to-use and -install issue tracking system with command-line, web, REST, XML-RPC, and e-mail interfaces. Designed with flexibility in mind - not just another bug tracker. ([Source Code](https://www.roundup-tracker.org/code.html)) `MIT/ZPL-2.0` `Python/Docker`
 - [Zammad](https://zammad.org/) - Easy to use but powerful open-source support and ticketing system. ([Source Code](https://github.com/zammad/zammad)) `AGPL-3.0` `Ruby/deb`
+
+### Travel Organizers
+
+**[`^        back to top        ^`](#awesome-selfhosted)**
+
+- [AdventureLog](https://adventurelog.app) - Travel tracker and trip planner. ([Demo](https://demo.adventurelog.app/signup), [Source Code](https://github.com/seanmorley15/AdventureLog)) `GPL-3.0` `Docker`
+- [AirTrail](https://airtrail.johan.ohly.dk) - Personal flight tracking system. ([Source Code](https://github.com/johanohly/AirTrail)) `GPL-3.0` `Docker/Nodejs`
+- [Dawarich](https://dawarich.app/) - Visualize your location history, track your movements, and analyze your travel patterns with complete privacy and control (alternative to Google Timeline a.k.a. Google Location History). ([Source Code](https://github.com/Freika/dawarich)) `AGPL-3.0` `Docker`
+- [OpenTripPlanner](https://www.opentripplanner.org/) - Multimodal trip planning software based on OpenStreetMap data and consuming published GTFS-formatted data to suggest routes using local public transit systems. ([Source Code](https://github.com/opentripplanner/OpenTripPlanner)) `LGPL-3.0` `Java/Javascript`
+view your trips. ([Demo](https://demo.traccar.org/), [Source Code](https://github.com/traccar)) `Apache-2.0` `Java`
+- [Surmai])https://surmai.app) - Collaborative personal/family travel organizer. ([Demo](https://demo.surmai.app), [Source Code](https://github.com/rohitkumbhar/surmai)) `MIT` `Docker`
+- [TRIP](https://itskovacs-trip.netlify.app/) - Minimalist POI Map tracker and Trip planner. ([Demo](https://itskovacs-trip.netlify.app/home), [Source Code](https://github.com/itskovacs/trip)) `MIT` `Docker`
+- [wanderer](https://github.com/open-wanderer/wanderer) - Trail database where you can upload your recorded tracks or create new ones and add various metadata to build an easily searchable catalogue. ([Demo](https://demo.wanderer.to)) `AGPL-3.0` `Docker/Go/Nodejs`
 
 
 ### Time Tracking
